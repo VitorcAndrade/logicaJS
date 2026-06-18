@@ -138,14 +138,14 @@ alert(nomeCompleto)
 3 - 2            //1
 3 * 2            //6
 10 / 2           //5
-10++             //11
-2--              //1 
+//10++             //11
+//2--              //1 
 
 //Operadores atribuição
-2 += 2           //4
-10 -= 2          //8
-10 *= 2          //20
-10 /= 10         //1
+//2 += 2           //4
+//10 -= 2          //8
+//10 *= 2          //20
+//10 /= 10         //1
 
 //Operadores de comparação (output sempre booleano)
 2 == "2"         //true  - igual em valor
