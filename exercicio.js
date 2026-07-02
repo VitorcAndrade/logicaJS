@@ -7,7 +7,6 @@ console.log(typeof idade);
 const verificacao = idade === 30;
 console.log(verificacao);
 // Crie duas expressões que retornem NaN
-console.log(Number)
 // Somar a string '200' com o número 50 e retornar 250
  Number("200") + 50
 // Incremente o número 5 e retorne o seu valor incrementado
